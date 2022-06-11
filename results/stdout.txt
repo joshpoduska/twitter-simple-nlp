@@ -1,0 +1,26 @@
+[I 20:51:36.204 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 20:51:37.030 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 20:51:37.045 NotebookApp] Loading IPython parallel extension
+[I 20:51:38.580 NotebookApp] jupyter_tensorboard extension loaded.
+[I 20:51:38.605 NotebookApp] JupyterLab extension loaded from /usr/local/anaconda/lib/python3.6/site-packages/jupyterlab
+[I 20:51:38.605 NotebookApp] JupyterLab application directory is /usr/local/anaconda/share/jupyter/lab
+[I 20:51:38.608 NotebookApp] Serving notebooks from local directory: /
+[I 20:51:38.608 NotebookApp] The Jupyter Notebook is running at:
+[I 20:51:38.608 NotebookApp] http://(domino-run-5d54744f4cedfd000651728e or 127.0.0.1):8888/
+[I 20:51:38.608 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 20:51:38.613 NotebookApp] 302 GET /tree/%2Fmnt%2Ftwitter.ipynb (10.0.242.198) 1.23ms
+[I 20:51:41.441 NotebookApp] 302 GET / (10.0.241.53) 0.52ms
+[I 20:51:41.472 NotebookApp] 302 GET /tree/%2Fmnt%2Ftwitter.ipynb (10.0.241.53) 1.45ms
+[I 20:51:41.826 NotebookApp] 302 GET /tree/%2Fmnt%2Ftwitter.ipynb (10.0.241.53) 0.98ms
+[I 20:51:44.219 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 20:51:44.221 NotebookApp] Notebook mnt/twitter.ipynb is not trusted
+[I 20:51:45.259 NotebookApp] Kernel started: b97daabc-1d93-4703-ad48-1c5b30658871
+[I 20:51:45.265 NotebookApp] 302 GET /notebooks/mnt/results/@joshpoduska_WordCloud.png (10.0.241.53) 3.02ms
+[I 20:51:45.266 NotebookApp] 302 GET /notebooks/mnt/results/@poem_exe_WordCloud.png (10.0.242.198) 3.01ms
+[I 20:51:45.266 NotebookApp] 302 GET /notebooks/mnt/results/@p0em_bot_WordCloud.png (10.0.242.198) 2.95ms
+[I 20:51:46.340 NotebookApp] Adapting to protocol v5.1 for kernel b97daabc-1d93-4703-ad48-1c5b30658871
+[I 20:53:46.621 NotebookApp] Saving file at /mnt/twitter.ipynb
+[I 20:53:51.364 NotebookApp] 302 GET /notebooks/mnt/results/@joshpoduska_WordCloud.png (10.0.241.53) 0.99ms
+[I 20:53:51.417 NotebookApp] 302 GET /notebooks/mnt/results/@poem_exe_WordCloud.png (10.0.241.53) 1.47ms
+[I 20:53:51.451 NotebookApp] 302 GET /notebooks/mnt/results/@p0em_bot_WordCloud.png (10.0.241.53) 0.89ms
+[I 20:55:45.776 NotebookApp] Saving file at /mnt/twitter.ipynb
