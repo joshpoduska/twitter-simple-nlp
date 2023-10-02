@@ -1,20 +1,6 @@
 ## Intro to analyzing Twitter data
 
-![](https://try.dominodatalab.com/u/joshpoduska/twitter_NLP/raw/1f6653583c467e87e7bd332bdd6537abf5a67db3/results/%40poem_exe_WordCloud.png?inline=true)
-
-## Follow the steps below before running the notebook for this project
-
-1. ***FORK THE PORJECT***
-
-2. Open [twitter.ipynb](view/twitter.ipynb) and click "Launch Notebook"
-
-3. Follow the directions in the notebook
-
-That's it! There is also a [blog post](https://blog.dominodatalab.com/------) <not live yet> associated with this project that offers additional background. 
-
----------------------------------------------------
-
-## This project has sample data loaded. You can use that, or you can pull your own Twitter data from any account by leveraging your own Twiter API Keys and Tokens. See below for instructions.
+Pull your own Twitter data from any account by leveraging your own Twiter API Keys and Tokens. See below for instructions.
 
 Simply save your own Twitter keys and tokens to your Domino user profile. The following steps describe how to do this.
 
@@ -39,6 +25,6 @@ Simply save your own Twitter keys and tokens to your Domino user profile. The fo
     
     c) Create 4 variables named "TWITTER_CONSUMER_KEY", "TWITTER_CONSUMER_SECRET", "TWITTER_ACCESS_TOKEN", and "TWITTER_ACCESS_TOKEN_SECRET" with the associated keys and tokens stored in the variables
 
-3. Open [twitter.ipynb](view/twitter.ipynb) and click "Launch Notebook"
+3. Open twitter.ipynb
 
 4. Follow the directions in the notebook
